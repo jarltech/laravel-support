@@ -11,6 +11,9 @@
 
 > **Note:** this package is just a support package for other Rinvex packages, which may not be useful on it's own, but contains some complementary generic functionality and also may not respect SemVer and break backward compatibility.
 
+## Fork notice
+
+Added translation support for slugs (**[Sluggable](https://github.com/spatie/laravel-sluggable)**)
 
 ## Installation
 
